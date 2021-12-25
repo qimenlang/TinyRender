@@ -42,3 +42,8 @@
    5. global Illumination
    6. phsical-based rendering
 
+
+3. #### Platform&IDE
+
+   1. Mac & XCode
+   2. windows & visual studio 2019
